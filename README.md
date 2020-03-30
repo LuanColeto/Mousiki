@@ -1,2 +1,2 @@
 # Mousiki
-An unofficial 
+An unofficial Apple music app
